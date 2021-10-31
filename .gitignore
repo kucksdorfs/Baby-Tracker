@@ -449,3 +449,4 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+Baby-Tracker.Web/obj/Debug/net5.0/project.razor.json
