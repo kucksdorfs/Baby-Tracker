@@ -12,7 +12,7 @@ namespace Baby_Tracker.Web
         public static void Main(string[] args)
         {
             DB_Access.DBUpgrade(typeof(Baby));
-            DB_Access.DBUpgrade(typeof(BabyEventable));
+            //DB_Access.DBUpgrade(typeof(BabyFeeding));
             CreateHostBuilder(args).Build().Run();
         }
 
